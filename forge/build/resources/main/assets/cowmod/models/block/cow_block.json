@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cowmod:block/big-cow-face",
+    "up": "cowmod:block/big-cow-face",
+    "north": "cowmod:block/big-cow-face",
+    "east": "cowmod:block/big-cow-face",
+    "south": "cowmod:block/big-cow-face",
+    "west": "cowmod:block/big-cow-face",
+    "particle": "cowmod:block/big-cow-face"
+  },
+  "render_type": "solid"
+}

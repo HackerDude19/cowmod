@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cowmod:block/cowore",
+    "up": "cowmod:block/cowore",
+    "north": "cowmod:block/cowore",
+    "east": "cowmod:block/cowore",
+    "south": "cowmod:block/cowore",
+    "west": "cowmod:block/cowore",
+    "particle": "cowmod:block/cowore"
+  },
+  "render_type": "solid"
+}

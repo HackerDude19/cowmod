@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "cowmod:block/cow_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "cowmod:block/cow_dimension_portal_ns"
+    }
+  }
+}

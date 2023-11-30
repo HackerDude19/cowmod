@@ -1,0 +1,21 @@
+[16Nov2023 10:04:04.957] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[16Nov2023 10:04:04.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[16Nov2023 10:04:05.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[16Nov2023 10:04:05.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[16Nov2023 10:04:05.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/cowmod:cow_dimension
+[16Nov2023 10:04:05.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[16Nov2023 10:04:05.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[16Nov2023 10:04:05.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[16Nov2023 10:04:05.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Nov2023 10:04:05.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Nov2023 10:04:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Nov2023 10:04:12.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[16Nov2023 10:04:15.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[16Nov2023 10:04:15.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[16Nov2023 10:04:15.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[New World]'/cowmod:cow_dimension
+[16Nov2023 10:04:15.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (New World (3)): All chunks are saved
+[16Nov2023 10:04:15.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Nov2023 10:04:15.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Nov2023 10:04:15.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (cow_dimension): All chunks are saved
+[16Nov2023 10:04:15.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Nov2023 10:04:21.988] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
